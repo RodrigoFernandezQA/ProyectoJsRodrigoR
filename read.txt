@@ -1,0 +1,25 @@
+ENTREGABLE N2 
+INTEGRAR:
+- Funciones   (✓) 
+- Ciclos      (✓)
+- Arrays      (✓)
+- Objetos     (✓)
+- DOM: formularios, inputs.   (✓)                                                                     
+- Eventos:    (✓)                                                              
+
+- ARRAY en archivo JSON (DB), leerlos usando AJAX para manejar datos
+servicios/productos.                                                          ()  
+
+- Programa el circutio de interaccion con las herramientas aprendidas.        ()
+
+- Documento HTML + CSS (almenos 1)                                            (✓)  
+
+- El archivo JS referenciado en el HTML                                       (✓) 
+
+- Crea estetica visual en css o uin framework CSS                             (✓) 
+
+- No puede tener ninguna interaccion con la consola, todo a traves del DOM    (✓) 
+
+- Suma controles de errores necesarios, integrando try - catch - finally      
+y respondiendo al control de posibles errores con mensajes claros para el
+usuario (no tecnico).                                                         (✓)  
